@@ -1,9 +1,11 @@
-### Hello
+### Hello!
 
 <!--
 **Harry1053/Harry1053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
-- ⚡ Fun fact: I enjoy playing CTFs
-  
+I like partaking in CTFs, learning and reading about cybersecurity!
+
+Main projects as of now: 
+--> A cybersecurity CTF-based solver 
+--> Not revealed yet!

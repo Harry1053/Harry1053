@@ -9,3 +9,6 @@ I like partaking in CTFs, learning and reading about cybersecurity!
 Main projects as of now: 
 --> A cybersecurity CTF-based solver 
 --> Not revealed yet!
+
+
+![tryhackme stats](https://raw.githubusercontent.com/smrtcookie123/smrtcookie123/master/assets/thm_propic.png)
